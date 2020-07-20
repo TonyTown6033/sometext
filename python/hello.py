@@ -1,0 +1,1 @@
+print ("good moring\n")
